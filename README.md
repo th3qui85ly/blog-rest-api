@@ -19,7 +19,7 @@ of list)
 There is no requirement to install anything above this URL fetching!
 One can easily access the endpoints using any ARM like Postman, etc.
 
-`Base URL: ` ###https://blog-api-v2.herokuapp.com
+`Base URL: ` ### https://blog-api-v2.herokuapp.com
 
 --- 
 
