@@ -20,7 +20,7 @@ There is no requirement to install anything above this URL fetching!
 One can easily access the endpoints using any ARM like Postman, etc.
 
 `Base URL: https://blog-api-v2.herokuapp.com`
-` [(https://img.shields.io/badge/Project%20Link-%20-orange)](https://blog-api-v2.herokuapp.com) `
+` [![Project Link](https://img.shields.io/badge/Project%20Link-%20-orange)](https://blog-api-v2.herokuapp.com) `
 
 
 ## 1. To Create a Blog 
