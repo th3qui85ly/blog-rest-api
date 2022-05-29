@@ -11,9 +11,7 @@ const app = express();
 // Middlewares
 app.use(express.json());
 app.use("/", routes);
-app.get("/", () => {
-    res.send("This is Main Screen");
-})
+
 // Db Connect
 mongoose.connect(db_uri, () => {
     console.log(`Database connected through MongoDb`)
