@@ -142,7 +142,7 @@ One can easily access the endpoints using server accessing tools like Postman, e
                err
           }
 
-## 6. Lking a blog
+## 6. Liking a blog
 
 ### Request
 
