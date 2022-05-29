@@ -16,8 +16,7 @@ of list)
 
 ## To access the API:
 
-There is no requirement to install anything above this URL fetching!
-One can easily access the endpoints using any ARM like Postman, etc.
+One can easily access the endpoints using server accessing tools like Postman, etc.
 
 `Base URL: https://blog-api-v2.herokuapp.com `
 
