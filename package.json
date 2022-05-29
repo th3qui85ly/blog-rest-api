@@ -4,7 +4,8 @@
   "description": "REST API using Nodejs, Express, and MongoDB",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "start": "nodemon index.js",
+    "test": "node index.js"
   },
   "keywords": [
     "REST",
